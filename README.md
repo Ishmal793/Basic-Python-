@@ -8,7 +8,7 @@ This repository contains Python basics that cover all the essential topics for a
 When I first started learning Python, I created this notebook to understand and practice fundamental concepts. Today, whenever I revisit this code, it helps me revise and refresh my Python basics — and I hope it does the same for you!
 
 📁 You can find the complete notebook with working code here:  
-👉 [GitHub Repository](your-repository-link-goes-here)
+👉 [GitHub Repository](python.ipynb)
 
 ---
 
