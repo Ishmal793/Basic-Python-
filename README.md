@@ -76,7 +76,7 @@ Python is the backbone of modern Data Analytics. Mastering these basics builds a
 ## 🔗 Connect With Me
 
 - 💼 [LinkedIn](www.linkedin.com/in/ishmal-shahid)
-- 📂 [GitHub](your-github-profile-url)
+- 📂 [GitHub](https://github.com/Ishmal793?tab=repositories)
 
 Feel free to explore the code and star the repo if you find it helpful ⭐  
 
